@@ -1,4 +1,4 @@
 sop
 ===
 
-Sop esoteric programming language
+Sop esoteric programming language for pltgames
